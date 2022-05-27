@@ -1,7 +1,7 @@
 ### Olá, sou a Jaque 👋
 
 
-- 🔭 Eu estou fazendo muitos Projetos com Análise da Dados com o Pandas + Integração Python e Excel, Automação Web (Web-Scraping com Selenium); Automação de Processos + Email
+- 🔭 Eu estou fazendo muitos Projetos com Análise da Dados com o Pandas + Integração Python e Excel, Automação Web (Web-Scraping com Selenium); Automação de Processos e Sistemas + Email
 - 🌱 Eu estou sempre aprimorando meus estudos da linguagem Python
 - 🤔 Desenvolvimento
 - 💬 Pergunte-me sobre Python
