@@ -2,9 +2,9 @@
 
 
 - 🔭 Eu estou fazendo muitos Projetos com Análise da Dados com o Pandas + Integração Python e Excel, Automação Web (Web-Scraping com Selenium); Automação de Processos e Sistemas + Email
-- 🌱 Eu estou sempre aprimorando meus estudos da linguagem Python
-- 🤔 Desenvolvimento
-- 💬 Pergunte-me sobre Python
+- 🌱 Eu estou sempre aprimorando meus estudos da linguagem Python com cursos de Analises de Aados, Automação, Desenvolvimento e iniciei mais um curso, o CS50.
+- 🤔 Certificado: Introdução de Ciencias da Computação - Python || USP
+- 💬 Python
 - 📫 Contato: jackdepaulo.it@outlook.com
  
 <div align="center">
